@@ -1,0 +1,37 @@
+Running: D:\14.6\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/cpuuu/cpu_isim_beh.exe -prj D:/cpuuu/cpu_beh.prj work.cpu 
+ISim P.68d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/cpuuu/w.vhd" into library work
+Parsing VHDL file "D:/cpuuu/trireg.vhd" into library work
+Parsing VHDL file "D:/cpuuu/shift.vhd" into library work
+Parsing VHDL file "D:/cpuuu/regarray.vhd" into library work
+Parsing VHDL file "D:/cpuuu/reg.vhd" into library work
+Parsing VHDL file "D:/cpuuu/control.vhd" into library work
+Parsing VHDL file "D:/cpuuu/comp.vhd" into library work
+Parsing VHDL file "D:/cpuuu/alu.vhd" into library work
+Parsing VHDL file "D:/cpuuu/cpu.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160488 KB
+Fuse CPU Usage: 249 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package cpu_lib
+Compiling package std_logic_unsigned
+Compiling architecture rtl of entity regarray [regarray_default]
+Compiling architecture rtl of entity trireg [trireg_default]
+Compiling architecture rtl of entity alu [alu_default]
+Compiling architecture rtl of entity shift [shift_default]
+Compiling architecture rtl of entity reg [reg_default]
+Compiling architecture rtl of entity comp [comp_default]
+Compiling architecture rtl of entity control [control_default]
+Compiling architecture rtl of entity cpu
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 20 VHDL Units
+Built simulation executable D:/cpuuu/cpu_isim_beh.exe
+Fuse Memory Usage: 179596 KB
+Fuse CPU Usage: 406 ms

@@ -1,0 +1,5 @@
+set -tmpdir "D:/hawkeye/cpu/xst/projnav.tmp"
+set -xsthdpdir "D:/hawkeye/cpu/xst"
+elaborate
+-ifn cpu_lib.prj
+-ifmt mixed
