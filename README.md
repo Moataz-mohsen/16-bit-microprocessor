@@ -1,7 +1,8 @@
 the design :
 
+![Capture](https://github.com/user-attachments/assets/94dbf6d3-e7b9-4cd0-ac7b-4ffc682e0075)
 
-![Capture](https://github.com/user-attachments/assets/1b682742-6449-47e7-8aa5-a7365f620b83)
+
 
 
 CPU Design Overview
@@ -41,6 +42,8 @@ Purpose: Sends control signals to other components based on the instruction bein
 wave forms :
 
 
-![image](https://github.com/user-attachments/assets/1f494943-f573-4857-9526-979c7b2592ee)
+![waveform](https://github.com/user-attachments/assets/493bd1c5-f51d-408e-91bc-c25283e68d75)
+
+
 
 
