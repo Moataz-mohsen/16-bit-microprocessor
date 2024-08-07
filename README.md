@@ -42,7 +42,7 @@ Purpose: Sends control signals to other components based on the instruction bein
 wave forms :
 
 
-![waveform](https://github.com/user-attachments/assets/493bd1c5-f51d-408e-91bc-c25283e68d75)
+![Capture](https://github.com/user-attachments/assets/6f2af547-405a-4dd6-8975-5c9aada01841)
 
 
 
